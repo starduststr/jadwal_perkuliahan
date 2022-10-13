@@ -1,4 +1,4 @@
 # jadwal_perkuliahan
 
-SEMESTER 1
+<h1>SEMESTER 1</h1>
 <img src="1.png">
